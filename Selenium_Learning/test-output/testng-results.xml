@@ -2,24 +2,16 @@
 <testng-results skipped="0" failed="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="17402" started-at="2019-05-06T20:19:17Z" finished-at="2019-05-06T20:19:34Z">
+  <suite name="Default suite" duration-ms="11263" started-at="2019-06-07T04:12:36Z" finished-at="2019-06-07T04:12:47Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="17402" started-at="2019-05-06T20:19:17Z" finished-at="2019-05-06T20:19:34Z">
-      <class name="com.SeleniumLearning.Selenium">
-        <test-method status="PASS" signature="driverInit()[pri:0, instance:com.SeleniumLearning.Selenium@2b98378d]" name="driverInit" is-config="true" duration-ms="7309" started-at="2019-05-06T16:19:17Z" finished-at="2019-05-06T16:19:24Z">
+    <test name="Default test" duration-ms="11263" started-at="2019-06-07T04:12:36Z" finished-at="2019-06-07T04:12:47Z">
+      <class name="com.selenium.Selenium_New">
+        <test-method status="PASS" signature="sample()[pri:0, instance:com.selenium.Selenium_New@4520ebad]" name="sample" duration-ms="11235" started-at="2019-06-07T00:12:36Z" finished-at="2019-06-07T00:12:47Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- driverInit -->
-        <test-method status="PASS" signature="tilevalidation()[pri:0, instance:com.SeleniumLearning.Selenium@2b98378d]" name="tilevalidation" duration-ms="3895" started-at="2019-05-06T16:19:24Z" finished-at="2019-05-06T16:19:28Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- tilevalidation -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.SeleniumLearning.Selenium@2b98378d]" name="tearDown" is-config="true" duration-ms="6171" started-at="2019-05-06T16:19:28Z" finished-at="2019-05-06T16:19:34Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- tearDown -->
-      </class> <!-- com.SeleniumLearning.Selenium -->
+        </test-method> <!-- sample -->
+      </class> <!-- com.selenium.Selenium_New -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
